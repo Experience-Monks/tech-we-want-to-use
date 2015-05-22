@@ -30,20 +30,17 @@ This module would be a function which would accept two strings. One string being
 that should be sanitized and the other being string to be removed.
 ```
 
-### Nominating issues
+### Discussing and Nominating issues
 
 After an issue has been created it can be discussed and nominated on.
 
 * Discussion should be constructive! 
-* Nominations will be entered via the :thumbsup: (`:thumbsup:` or `:+1:`) emoji.
+* In discussion there should be research done if a tech already exists that is similar to what was mentioned
+* Nominations will be entered via github issue labels. 
 
-Example feedback with nomination:
+When nominating if you are the first user to nominate add the *nomimantion1* label. For the second nomination which is required to move it to an .md file use the *nomination2* label. All labels can be seen here:
 
-`I think a function to sanitize strings would be great :thumbsup:`
-
-Negative feedback:
-
-`I'm not sure a string sanitization function can be built in 2 days. Maybe 3 would be better.`
+https://github.com/Jam3/tech-we-want-to-use/labels
 
 ### Moving Nominated Issues To .md
 
