@@ -29,6 +29,8 @@ Dev Time: 2 days
 This module would be a function which would accept two strings. One string being the string 
 that should be sanitized and the other being string to be removed.
 ```
+Furthermore the module/tool label maybe added to the issue. To allow for quick referencing and categorization.
+
 
 ### Discussing and Nominating issues
 
