@@ -1,5 +1,5 @@
-Libraries and Technologies Jam3 Would Like To Have
-==================================================
+Tech Jam3 Would Like To Have
+============================
 
 * [Modules/Libraries](modules.md)
 * [Tools](tools.md)
